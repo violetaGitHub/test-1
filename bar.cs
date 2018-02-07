@@ -9,7 +9,6 @@ using GitMasterGui.LoginWindow;
 using GitMaster.UI;
 using GitMaster.UI.Web;
 using WpfUI;
-using GitMasterGui.Api;
 
 namespace GitMaster.LoginWindow
 {
